@@ -1,5 +1,5 @@
 export default function TheCatWalk (props) {
     return (
-        <h4>This is the The Catwalk Page!</h4>
+        <h4>This is the Catwalk Page!</h4>
     )
 }
